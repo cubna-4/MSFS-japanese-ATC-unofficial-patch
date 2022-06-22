@@ -6,10 +6,3 @@ MSFS2020におけるATCの致命的な表示バグを改善します
 既存のja-JP.locpakファイルのバックアップを取る。
 
 ここからダウンロードしたja-JP.locpakを fs-base に入れる。
-
-
-
-
-
-全ての権利はマイクロソフト社に帰属します
-Microsoft. All rights reserved.
